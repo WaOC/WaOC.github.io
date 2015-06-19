@@ -16,13 +16,7 @@
     </section>
 
     <section class="main-content">
-      <h1>
-<a id="waoc" class="anchor" href="#waoc" aria-hidden="true"><span class="octicon octicon-link"></span></a>WaOC</h1>
-
-<h2>
-<a id="workflow-automation-opencode" class="anchor" href="#workflow-automation-opencode" aria-hidden="true"><span class="octicon octicon-link"></span></a>Workflow automation OpenCode</h2>
-
-<p>WaOC é um sistema que automatiza os processos no desenvolvimento de lojas OpenCode.</p>
+      <p>WaOC é um sistema que automatiza os processos no desenvolvimento de lojas OpenCode.</p>
 
 <h2>
 <a id="download" class="anchor" href="#download" aria-hidden="true"><span class="octicon octicon-link"></span></a>Download:</h2>
@@ -53,6 +47,8 @@
 <a id="edit" class="anchor" href="#edit" aria-hidden="true"><span class="octicon octicon-link"></span></a><strong>Edit</strong>
 </h4>
 
+<div class="highlight highlight-shell"><pre>  waoc edit {{STORE_ID}} {{API_KEY}} {{API_PASSWORD}} {{THEME_ID}}</pre></div>
+
 <ul>
 <li>Edita uma loja. Com as informações que são passadas no comando, a loja é configurada e baixada em segundos.</li>
 </ul>
@@ -61,6 +57,8 @@
 <a id="work" class="anchor" href="#work" aria-hidden="true"><span class="octicon octicon-link"></span></a><strong>Work</strong>
 </h4>
 
+<div class="highlight highlight-shell"><pre>  waoc work {{STORE_ID}}</pre></div>
+
 <ul>
 <li>Inicia o OpenCode e o Gulp para a loja passada no comando, assim, rapidamente é possivel editar um tema.</li>
 </ul>
@@ -68,6 +66,8 @@
 <h4>
 <a id="stop" class="anchor" href="#stop" aria-hidden="true"><span class="octicon octicon-link"></span></a><strong>Stop</strong>
 </h4>
+
+<div class="highlight highlight-shell"><pre>  waoc stop</pre></div>
 
 <ul>
 <li>Para o OpenCode e o Gulp de todas as lojas.</li>
