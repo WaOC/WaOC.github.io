@@ -15,18 +15,18 @@ O WaoC está disponivel em duas versões:
 
 Veja abaixo uma lista com todas as funções disponíveis, elas irão agilizar o processo de trabalho com o OpenCode.
 
-**Install**
+#### **Install**
 
-Instala a GEM do OpenCode e o Gulp, deixando o ambiente configurado rapidamente.
+- Instala a GEM do OpenCode e o Gulp, deixando o ambiente configurado rapidamente.
 
-**Edit**
+#### **Edit**
 
-Edita uma loja. Com as informações que são passadas no comando, a loja é configurada e baixada em segundos.
+- Edita uma loja. Com as informações que são passadas no comando, a loja é configurada e baixada em segundos.
 
-**Work**
+#### **Work**
 
-Inicia o OpenCode e o Gulp para a loja passada no comando, assim, rapidamente é possivel editar um tema.
+- Inicia o OpenCode e o Gulp para a loja passada no comando, assim, rapidamente é possivel editar um tema.
 
-**Stop**
+#### **Stop**
 
-Para o OpenCode e o Gulp de todas as lojas.
+- Para o OpenCode e o Gulp de todas as lojas.
