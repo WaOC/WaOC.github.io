@@ -6,7 +6,7 @@ WaOC é um sistema que automatiza os processos no desenvolvimento de lojas OpenC
 
 ##Download:
 
-O WaoC está disponivel em duas versões:
+O WaOC está disponivel em duas versões:
 
 - [Ruby](https://github.com/WaOC/WaOC-Ruby)
 - [Shell](https://github.com/WaOC/WaOC-Shell)
