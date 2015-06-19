@@ -16,6 +16,9 @@ O WaOC está disponivel em duas versões:
 Veja abaixo uma lista com todas as funções disponíveis, elas irão agilizar o processo de trabalho com o OpenCode.
 
 #### **Install**
+``` shell
+  waoc install
+```
 
 - Instala a GEM do OpenCode e o Gulp, deixando o ambiente configurado rapidamente.
 
