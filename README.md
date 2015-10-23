@@ -21,7 +21,7 @@ Veja abaixo uma lista com todas as funções disponíveis, elas irão agilizar o
   waoc install
 ```
 
-### **Edit**
+### **Edit(beta)**
 - Edita uma loja. Com as informações que são passadas no comando, a loja é configurada e baixada em segundos.
 ``` shell
   waoc edit {{STORE_ID}} {{API_KEY}} {{API_PASSWORD}} {{THEME_ID}}
