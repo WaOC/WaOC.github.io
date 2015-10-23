@@ -1,4 +1,4 @@
-# WaOC
+# WaOC Opencode
 Workflow automatizado para OpenCode
 --------------------
 
@@ -8,8 +8,8 @@ Workflow automatizado para OpenCode
 
 O WaOC está disponivel em duas versões:
 
-- [Ruby](https://github.com/WaOC/WaOC-Ruby)
-- [Shell](https://github.com/WaOC/WaOC-Shell)
+- [Ruby](https://github.com/WaOC/WaOC-Opencode-Ruby)
+- [Shell - Deprecated](https://github.com/WaOC/WaOC-Shell-DEPRECATED)
 
 ## Funções
 
