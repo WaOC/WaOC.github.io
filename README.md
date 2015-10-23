@@ -2,7 +2,7 @@
 Workflow automatizado para OpenCode
 --------------------
 
-WaOC é um sistema que automatiza os processos no desenvolvimento de lojas OpenCode.
+**WaOC** é um sistema que automatiza os processos no **desenvolvimento** de lojas **OpenCode**.
 
 ##Download:
 
